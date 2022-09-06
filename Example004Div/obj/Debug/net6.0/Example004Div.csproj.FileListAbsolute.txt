@@ -1,0 +1,15 @@
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\bin\Debug\net6.0\Example004Div.exe
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\bin\Debug\net6.0\Example004Div.deps.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\bin\Debug\net6.0\Example004Div.runtimeconfig.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\bin\Debug\net6.0\Example004Div.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\bin\Debug\net6.0\Example004Div.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.csproj.AssemblyReference.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.AssemblyInfoInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.AssemblyInfo.cs
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\refint\Example004Div.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\Example004Div.genruntimeconfig.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example004Div\obj\Debug\net6.0\ref\Example004Div.dll

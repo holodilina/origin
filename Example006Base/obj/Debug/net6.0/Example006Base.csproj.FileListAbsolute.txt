@@ -1,0 +1,15 @@
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\bin\Debug\net6.0\Example006Base.exe
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\bin\Debug\net6.0\Example006Base.deps.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\bin\Debug\net6.0\Example006Base.runtimeconfig.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\bin\Debug\net6.0\Example006Base.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\bin\Debug\net6.0\Example006Base.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.csproj.AssemblyReference.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.AssemblyInfoInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.AssemblyInfo.cs
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\refint\Example006Base.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\Example006Base.genruntimeconfig.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example006Base\obj\Debug\net6.0\ref\Example006Base.dll
