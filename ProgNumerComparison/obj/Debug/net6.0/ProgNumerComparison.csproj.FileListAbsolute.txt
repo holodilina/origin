@@ -1,0 +1,15 @@
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.csproj.AssemblyReference.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.AssemblyInfoInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.AssemblyInfo.cs
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\bin\Debug\net6.0\ProgNumerComparison.exe
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\bin\Debug\net6.0\ProgNumerComparison.deps.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\bin\Debug\net6.0\ProgNumerComparison.runtimeconfig.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\bin\Debug\net6.0\ProgNumerComparison.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\bin\Debug\net6.0\ProgNumerComparison.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\refint\ProgNumerComparison.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ProgNumerComparison.genruntimeconfig.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\ProgNumerComparison\obj\Debug\net6.0\ref\ProgNumerComparison.dll

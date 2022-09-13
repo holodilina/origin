@@ -1,0 +1,15 @@
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\bin\Debug\net6.0\Example007Сycle.exe
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\bin\Debug\net6.0\Example007Сycle.deps.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\bin\Debug\net6.0\Example007Сycle.runtimeconfig.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\bin\Debug\net6.0\Example007Сycle.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\bin\Debug\net6.0\Example007Сycle.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.csproj.AssemblyReference.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.AssemblyInfoInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.AssemblyInfo.cs
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\refint\Example007Сycle.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\Example007Сycle.genruntimeconfig.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Example007Сycle\obj\Debug\net6.0\ref\Example007Сycle.dll
