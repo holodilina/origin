@@ -1,0 +1,15 @@
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.csproj.AssemblyReference.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.AssemblyInfoInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.AssemblyInfo.cs
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\bin\Debug\net6.0\Sem1Task3.2.exe
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\bin\Debug\net6.0\Sem1Task3.2.deps.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\bin\Debug\net6.0\Sem1Task3.2.runtimeconfig.json
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\bin\Debug\net6.0\Sem1Task3.2.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\bin\Debug\net6.0\Sem1Task3.2.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\refint\Sem1Task3.2.dll
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.pdb
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\Sem1Task3.2.genruntimeconfig.cache
+C:\Users\Наталия\Documents\ТЕСТИРОВЩИК\Prog1\Sem1Task3.2\obj\Debug\net6.0\ref\Sem1Task3.2.dll
